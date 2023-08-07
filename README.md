@@ -24,7 +24,7 @@ Before you begin, make sure you have the following installed on your system:
 5. **Run the Game**: After building successfully, you can run the game by clicking the "Start" button in Visual Studio or by navigating to the output directory where the executable is located and running it from there.
 
 ## How to Play
--Press **Enter** to start the Game.
+- Press **Enter** to start the Game.
 - Press the **Spacebar** to make the character (bird) jump.
 - Navigate the character through the openings between the pipes.
 - The game ends when the character collides with the ground or a pipe.
