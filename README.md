@@ -13,7 +13,7 @@ Before you begin, make sure you have the following installed on your system:
 
 ## Getting Started
 
-1. **Clone the Repository**: Start by cloning this repository to your local.
+1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
 2. **Open the Project in Visual Studio**: Launch Microsoft Visual Studio and select "Open a project or solution." Navigate to the directory where you cloned the repository and open the `.sln` file.
 
