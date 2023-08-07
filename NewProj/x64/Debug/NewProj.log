@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\Mayur\Desktop\SFML\NewProj\NewProj\Game.cpp(55,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mayur\Desktop\SFML\NewProj\NewProj\Game.cpp(55,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  NewProj.vcxproj -> C:\Users\Mayur\Desktop\SFML\NewProj\x64\Debug\NewProj.exe
