@@ -2,7 +2,7 @@
 
 This repository contains a simple Flappy Bird-inspired game developed using C++ and the SFML library. The game is built using Microsoft Visual Studio, making use of the SFML library for graphics, audio, and user input handling. 
 
-![Flappy Game Demo](demo.gif)
+![Flappy Game Demo](https://media.tenor.com/8sBZQO2ZALwAAAAd/flappy-bird-game.gif)
 
 ## Prerequisites
 
